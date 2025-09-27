@@ -1,0 +1,6 @@
+[1.0.2 update]
+·Fix: The vertical line was displayed too thin.
+·Add: Automatically hide the text <检票>(Ticket Checking)
+[1.0.2 更新内容]
+·修复：竖线显示过细
+·增加：自动隐藏检票信息
