@@ -1,0 +1,6 @@
+如果系统出现乱码，请检查字体文件是否有效
+如无效，请前往系统盘中复制系统字体
+C:\Windows\Fonts
+simhei.ttf→黑体
+simsun.ttf→宋体
+simw.ttf→华文新魏
