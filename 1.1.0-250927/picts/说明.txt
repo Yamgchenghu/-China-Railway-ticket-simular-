@@ -1,0 +1,3 @@
+QRcode.png  80x80    透明QR码 （不适用大版本分支）
+Base{int_num}.png    540x310  底图{整数}
+Baseb{int_num}.png    1890x1075  大底图{整数}
